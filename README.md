@@ -4,6 +4,6 @@ First check [this spreadsheet](https://docs.google.com/spreadsheets/d/1SkFcZgmzv
 
 Run this script like this:
 
-> python3 concat-and-factor.py <first number> <second number>
+> python3 concat-and-factor.py first_number second_number
 
-where <first number> and <second number> are the start and end of the index of the digit we want. Paste the results you get into the spreadsheet.
+where first_number and second_number are the start and end of the index of the digits we want. Paste the results you get into the spreadsheet. example: `python3 concat-and-factor.py 55 65`
